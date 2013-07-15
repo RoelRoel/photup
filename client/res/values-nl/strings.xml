@@ -47,8 +47,7 @@
         uploaden
     </string>
     <string name="error_select_album">Selecteer alstublieft eerst een album</string>
-    <string name="error_not_connected">You\'re not connected to the Internet, try again later.
-    </string>
+    <string name="error_not_connected">U heeft geen internetverbinding. Probeer het later opnieuw.</string>
     <string name="notification_uploading_photo">Foto aan het uploaden %1$s</string>
     <string name="notification_uploading_photo_progress">Foto aan het uploaden %1$d %2$d%%</string>
     <string name="crash_toast">photup is onverwacht gesloten :( De ontwikkelaar is op de hoogte
@@ -66,8 +65,8 @@
     <string name="logout_prompt_title">Weet u het zeker?</string>
     <string name="libraries">Bibliotheken</string>
     <string name="settings">Instellingen</string>
-    <string name="select_all">Select All</string>
-    <string name="clear_selection">Clear Selection</string>
+    <string name="select_all">Alles Selecteren</string>
+    <string name="clear_selection">Selectie Wissen</string>
     <string name="places_search_hint">Zoeken</string>
     <string name="pref_instant_upload_title">Snelle Upload</string>
     <string name="pref_instant_upload_album_title">Album</string>
@@ -80,11 +79,11 @@
         te worden
     </string>
     <string name="pref_instant_upload_roaming_title">Roaming</string>
-    <string name="pref_instant_upload_roaming_summary">Instant Upload if roaming?</string>
-    <string name="pref_general_screen">General Settings</string>
-    <string name="pref_save_files_gallery_title">Save Images</string>
-    <string name="pref_save_files_gallery_summary">Save Images to Gallery?</string>
-    <string name="pref_more_options">Advanced Settings</string>
+    <string name="pref_instant_upload_roaming_summary">Instant Upload bij roaming?</string>
+    <string name="pref_general_screen">Algemene Instellingen</string>
+    <string name="pref_save_files_gallery_title">Afbeeldingen opslaan</string>
+    <string name="pref_save_files_gallery_summary">Afbeeldingen in Gallerij opslaan?</string>
+    <string name="pref_more_options">Geavanceerde instellingen</string>
     <string name="dialog_instant_upload">photup heeft nu Snelle Upload! Dit betekent dat wanneer u
         een foto maakt, fotup deze foto automatisch naar Facebook uploadt.\n\nU hoeft het alleen
         maar aan te zetten in Instellingen en wij doen de rest voor u!
@@ -105,14 +104,14 @@
     <string name="promo_text">Ik probeer photup voor Facebook uit, een nieuwe app om foto\'s met
         Facebook te delen voor Android. Probeer het ook uit!
     </string>
-    <string name="album_all">All Photos</string>
-    <string name="action_bar_upload_progress">%1$d of %2$d</string>
-    <string name="opening_app">Opening&amp;#8230;</string>
-    <string name="stop_uploads">Stop Uploading</string>
-    <string name="start_uploads">Start Uploading</string>
-    <string name="stopped_uploads">Uploading is Disabled</string>
-    <string name="started_uploads">Uploading is Enabled</string>
-    <string name="empty_uploads">No uploads available</string>
-    <string name="location_current">Current Location</string>
-    <string name="location_photo">Photo Location</string>
+    <string name="album_all">Alle Foto's</string>
+    <string name="action_bar_upload_progress">%1$d van de %2$d</string>
+    <string name="opening_app">Bezig met openen&amp;#8230;</string>
+    <string name="stop_uploads">Stop Uploaden</string>
+    <string name="start_uploads">Start Uploaden</string>
+    <string name="stopped_uploads">Uploaden is Uitgeschakeld</string>
+    <string name="started_uploads">Uploaden is Ingeschakeld</string>
+    <string name="empty_uploads">Geen uploads beschikbaar</string>
+    <string name="location_current">Huidige Lokatie</string>
+    <string name="location_photo">Foto Lokatie</string>
 </resources>
